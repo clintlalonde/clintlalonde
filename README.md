@@ -1,2 +1,2 @@
-# clintlalonde
-Trying to set up a Git public site
+# Welcome to my GitHub site
+I blog at [clintlalonde.net](http://clintlalonde.net)
